@@ -1,0 +1,6 @@
+framework module DPGodChati {
+  umbrella header "DPGodChati-umbrella.h"
+
+  export *
+  module * { export * }
+}

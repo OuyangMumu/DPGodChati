@@ -1,0 +1,6 @@
+framework module Pods_DPGodChati_Example {
+  umbrella header "Pods-DPGodChati_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
